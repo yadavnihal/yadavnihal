@@ -51,7 +51,7 @@ Hi, I'm Nihal — a tech-driven enthusiast passionate about data analysis, machi
 - Integrated **TextBlob** and **VADER** for dual sentiment scoring and comparison.
 - Built using **Streamlit** for an interactive and real-time user experience.
 [🔗 Live Demo](https://sentiment-analyzer--tool-for-movie-reviews.streamlit.app/) 
-[💻 View Code](https://github.com/yadavnihal/Sentiment-Analysis-Tool)
+[💻 View Code](https://github.com/yadavnihal/Sentiment-Analyzer-Tool)
 
 ---
 
