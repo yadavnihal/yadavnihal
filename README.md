@@ -78,6 +78,10 @@ Hi, I'm Nihal — a tech-driven enthusiast passionate about data analysis, machi
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/yadavnihal/yadavnihal/output/github-contribution-grid-snake.svg)
+
+
+
 ### 📫 Let's Connect
 
 - **📧 Email**: [yadav.nihal103@gmail.com](mailto:yadav.nihal103@gmail.com)  
