@@ -78,7 +78,7 @@ Hi, I'm Nihal — a tech-driven enthusiast passionate about data analysis, machi
 
 ---
 
-### 📊 Github Contribution
+### 📈 My Github Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/yadavnihal/yadavnihal/output/github-contribution-grid-snake.svg)
 
