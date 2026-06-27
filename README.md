@@ -5,7 +5,7 @@
 Hi, I'm Nihal — a tech-driven enthusiast passionate about data analysis, machine learning, and building practical solutions. I specialize in transforming raw data into actionable insights using Python, Power BI, SQL, and PyTorch. My expertise also includes Natural Language Processing (NLP), where I enjoy building tools that interpret and respond to human language. I'm always eager to learn new technologies and apply them in real-world applications, especially in AI and data science.
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nihal103/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-yadav-cse/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yadavnihal)
 [![Gmail](https://img.shields.io/badge/-yadav.nihal103@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadav.nihal103@gmail.com)
 
